@@ -1,0 +1,6 @@
+{
+  "waves": [
+    {"time":0,"composition":["grunt","grunt","grunt"]},
+    {"time":300,"composition":["grunt","grunt","artillery"]}
+  ]
+}

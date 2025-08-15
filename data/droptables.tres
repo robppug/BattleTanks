@@ -1,0 +1,11 @@
+{
+  "default_banner": {
+    "pity_soft":10,
+    "pity_hard":90,
+    "rates": {
+      "legendary":0.01,
+      "rare":0.09,
+      "common":0.90
+    }
+  }
+}

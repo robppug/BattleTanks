@@ -1,0 +1,6 @@
+{
+  "creeps": [
+    {"id":"grunt","name":"Grunt","hp":200,"bounty":20},
+    {"id":"artillery","name":"Siege Crawler","hp":300,"bounty":30}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "weapons": [
+    {
+      "id": "cannon",
+      "name": "Iron Cannon",
+      "cost": 100,
+      "range": 800,
+      "refire_time": 1.5,
+      "projectile_speed": 500,
+      "damage_factor": 1.0,
+      "target_masks": ["ground", "building"],
+      "aoe": 0,
+      "special_fx": ""
+    },
+    {
+      "id": "rocket",
+      "name": "Sky Rocket",
+      "cost": 150,
+      "range": 1000,
+      "refire_time": 2.0,
+      "projectile_speed": 700,
+      "damage_factor": 1.0,
+      "target_masks": ["air", "ground"],
+      "aoe": 50,
+      "special_fx": ""
+    }
+  ]
+}

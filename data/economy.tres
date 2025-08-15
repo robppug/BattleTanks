@@ -1,0 +1,4 @@
+{
+  "currencies": ["gold","gems","tokens"],
+  "tank_refund_ratio":0.75
+}

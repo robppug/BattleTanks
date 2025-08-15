@@ -1,0 +1,3 @@
+[gd_scene load_steps=2 format=4]
+
+[node name="UI_Tutorial" type="Control" script="res://src/ui_tutorial.gd"]
