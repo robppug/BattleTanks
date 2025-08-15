@@ -1,0 +1,8 @@
+{
+  "control_points": {
+    "aura_hp_percent":0.04,
+    "aura_hp_flat":50,
+    "aura_mana":5,
+    "radius":500
+  }
+}
