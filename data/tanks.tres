@@ -1,0 +1,6 @@
+{
+  "tanks": [
+    {"id":"scout","name":"Swift Rover","role":"light","cost":300},
+    {"id":"heavy","name":"Ironclad","role":"frontline","cost":800}
+  ]
+}
