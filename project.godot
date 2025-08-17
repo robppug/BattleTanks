@@ -1,0 +1,24 @@
+[gd_resource type="ConfigFile" load_steps=2 format=4]
+
+[application]
+config/name="BattleTanksClone"
+run/main_scene="res://scenes/Demo.tscn"
+config/icon="res://icon.png"
+
+[autoload]
+Balance="*res://src/singletons/balance.gd"
+Economy="*res://src/singletons/economy.gd"
+Game="*res://src/singletons/game.gd"
+Gacha="*res://src/singletons/gacha.gd"
+Save="*res://src/singletons/save.gd"
+Analytics="*res://src/singletons/analytics.gd"
+
+[display]
+window/vsync/vsync_via_compositor=true
+
+[input]
+move_forward={"deadzone":0.5,"events":[{"type":"joy_motion","device":0,"axis":1,"axis_value":-1.0},{"type":"key","keycode":87}]}
+move_back={"deadzone":0.5,"events":[{"type":"joy_motion","device":0,"axis":1,"axis_value":1.0},{"type":"key","keycode":83}]}
+move_left={"deadzone":0.5,"events":[{"type":"joy_motion","device":0,"axis":0,"axis_value":-1.0},{"type":"key","keycode":65}]}
+move_right={"deadzone":0.5,"events":[{"type":"joy_motion","device":0,"axis":0,"axis_value":1.0},{"type":"key","keycode":68}]}
+fire={"deadzone":0.5,"events":[{"type":"key","keycode":32}]}
