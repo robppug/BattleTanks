@@ -1,0 +1,12 @@
+{
+  "assist_window": 7.5,
+  "xp_share_range": 1500,
+  "cp_capture_time": 10,
+  "cp_barricade_capture_time": 20,
+  "cp_radius": 500,
+  "force_gold_period": 300,
+  "force_gold_formula": {"factor":4, "player_mult":9, "base":15},
+  "passive_income": {"base":32, "player_mult":3, "add":5},
+  "bounty_min_factor": 100,
+  "bounty_max_factor": 33
+}

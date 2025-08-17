@@ -1,0 +1,3 @@
+[gd_scene load_steps=2 format=4]
+
+[node name="Tank" type="Node3D" script="res://src/tank.gd"]

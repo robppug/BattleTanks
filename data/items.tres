@@ -1,0 +1,6 @@
+{
+  "items": [
+    {"id":"repair_kit","name":"Repair Kit","effect":"heal","cost":100},
+    {"id":"booster","name":"Turbo Booster","effect":"speed","cost":200}
+  ]
+}
